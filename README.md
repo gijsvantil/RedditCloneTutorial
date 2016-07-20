@@ -1,6 +1,7 @@
 A simple voting app that resembles a minimal-reddit link voting app in Angular 2.
 
-Made by following a tutorial from a book called: 'ng-book 2'
+Made by following a tutorial from a book called: 'ng-book 2' 
+[https://www.ng-book.com/2/](https://www.ng-book.com/2/)
 
 
 # Instructions
